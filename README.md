@@ -1,6 +1,7 @@
 # To-Do-Web-App-With-VanillaJS
 
 A To-Do web app made using vanilla js.
+[Live Demo](https://todo-mihir.netlify.app)
 
 ## Features:
 * Data is stored locally, so the list items stay evenwhen page reloads
